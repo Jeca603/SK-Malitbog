@@ -23,7 +23,7 @@
           </li>
           <li><a href="/officials">Officials</a></li>
           <li><a href="/faqs">FAQ'S</a></li>
-          <li><a href="/admin">Admin</a></li>
+          <li><a href="/admin">Log in</a></li>
           <!-- <li><a href="#">Contact Us</a></li> -->
           <!-- <li><a href="pages/404.html">404 Page</a></li> -->
         </ul>
